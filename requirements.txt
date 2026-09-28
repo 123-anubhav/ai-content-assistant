@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+python-multipart
+boto3
+python-dotenv
+pinecone
+pypdf
+langchain
+langchain-text-splitters
+openai
+streamlit
+requests
