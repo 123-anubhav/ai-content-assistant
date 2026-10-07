@@ -1,0 +1,8 @@
+{
+  "book_id": "6548d312-d2b1-4adc-8609-99ac796eeebc",
+  "filename": "Python OOPS (2).pdf",
+  "s3_key": "books/6548d312-d2b1-4adc-8609-99ac796eeebc/Python OOPS (2).pdf",
+  "total_pages": 4,
+  "first_page_preview": "===============\nPython OOPS\n===============\n** OOPS = Object Oriented Programming System\n** OOPS is a programming approach where we design software using classes and objects.\n** In real life, everything can be treated as an object.\nStudent -------> name, email, phno, course, fee\nEmployee ------> id, name, salary, project\nBank Account ----> account number, balance, branch name, deposit, withdraw\n** Without OOPS, we usually write multiple variables and functions separately like below...\n----------",
+  "message": "PDF uploaded and extracted successfully"
+}
